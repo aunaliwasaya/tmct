@@ -69,11 +69,15 @@
 
 // stringfunc();
 
-// Write a function that takes a string as an argument and returns the number of vowels (a, e, i, o, u) in the string.
 
+// input 1 = 0 and 0 = 1.
 
+function One(input) {
+    console.log(1 - input);
+}
 
-
+One(0);
+One(0);
 
 // Check if a Number is Even or Odd: Write a function that takes a number as an argument and returns "even" if the number is even and "odd" if it's odd.
 
